@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trabaho01</string>
+    <string name="reg_txt">REGISTRO</string>
+    <string name="log_txt">LOGIN</string>
+    <string name="cpf_txt">CPF</string>
+    <string name="nome_txt">NOME</string>
+    <string name="canc_txt">CANCELAR</string>
+    <string name="ent_txt">ENTRAR</string>
+    <string name="app_main_nome"></string>
+</resources>
